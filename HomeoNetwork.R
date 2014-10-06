@@ -1,5 +1,5 @@
 ##
-#A script to pwrform network analysis using WGCNA, compare Homeologous networks in domesticated cotton
+#A script to perform network analysis using WGCNA, compare Homeologous networks in domesticated cotton
 ##
 
 #Simon Renny-Byfield, Iowa State University, September 2014
